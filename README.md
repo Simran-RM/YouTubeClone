@@ -1,4 +1,4 @@
-Please find the deployed Youtube clone here: https://stackdevpro.github.io/YouTubeClone/ 
+Please find the deployed Youtube clone here: https://simran-rm.github.io/YouTubeClone/ 
 (if the page does not reload, please click on the youtube logo on top-left of the page)
 
 # Getting Started with Create React App
